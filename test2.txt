@@ -1,0 +1,14 @@
+"hello word" 
+"thirb line" 
+asssdsddddddddd
+<<<<<<< HEAD
+master 1
+=======
+fdfdfffffg
+aban
+>>>>>>> aban
+<<<<<<< HEAD
+taghgyyyyr akhar
+=======
+tagheeeeerat
+>>>>>>>  taghyeer rest2
